@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
+<img src="[https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizgQim6HBgjul5630_O82DRCbyGVTMzjw2FJqE7A9Sw0aKF1HsEe8N2um98Aw1t1vstNTJXpO7ZmJOUEJl4L9VzKe-XDNJHCLZMU_80DNm3p6ANcVAzfaLTLi0T-DBqOB682sXCTt0FpBKm9AzCO4HupM1DOEwxaNWo9w-i_VLrsTfGkSgTvzzfbKEkw/s640/CB%20Movies%20Mizo%20Version%2013%2020220609_105239.jpg)" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
 
-> <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="[https://youtu.be/W-QCp2fWRTo](https://youtu.be/xY_F4JA8Gxc)"><img src="[https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizgQim6HBgjul5630_O82DRCbyGVTMzjw2FJqE7A9Sw0aKF1HsEe8N2um98Aw1t1vstNTJXpO7ZmJOUEJl4L9VzKe-XDNJHCLZMU_80DNm3p6ANcVAzfaLTLi0T-DBqOB682sXCTt0FpBKm9AzCO4HupM1DOEwxaNWo9w-i_VLrsTfGkSgTvzzfbKEkw/s640/CB%20Movies%20Mizo%20Version%2013%2020220609_105239.jpg)" /><br>
 
 > [Automated Multi Device whatsapp bot created](https://github.com/nexusNw/Gojo-Satoru) by [nexusNw](github.com/nexusNw)
 
@@ -15,7 +15,7 @@
 
 </br>
 
-<a href="https://github.com/nexusNw"><img title="Author" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://cbmoviesmizoversion.blogspot.com"><img title="CB Movies Mizo Version" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/nexusNw/Gojo-Satoru"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/nexusNw/Gojo-Satoru/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/nexusNw/Gojo-Satoru/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nexusNw/Gojo-Satoru?label=watchers&color=54aeff&style=flat-square" /></a> <br>
